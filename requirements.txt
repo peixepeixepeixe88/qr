@@ -1,0 +1,5 @@
+streamlit
+qrcode[pil]
+Pillow
+numpy
+zxing-cpp
